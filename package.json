@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/hchockarprasad/avail-js/issues"
   },
-  "homepage": "https://github.com/hchockarprasad/avail-js#readme"
+  "homepage": "https://github.com/hchockarprasad/avail-js#readme",
+  "dependencies": {
+    "lodash": "^4.17.4"
+  }
 }
